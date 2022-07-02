@@ -5,6 +5,10 @@
   font-family: 'Poppins', sans-serif;
 }
 
+img{
+  max-width:60px;
+}
+
 main{
   min-height:100vh;
   background:linear-gradient(to right top,#65dfc9,#65dfc9);
